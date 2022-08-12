@@ -74,6 +74,11 @@ ul {
 .main-nav {
     display: flex;
     align-items: center;
+    border: 1px solid #ECECEC; 
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+
 }
 
 /* Logo */
